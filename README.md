@@ -7,5 +7,10 @@
 <img width="484" alt="유니티" src="https://user-images.githubusercontent.com/100189169/222711044-cdbc2da1-290f-4dcc-bc6f-99c4713863f6.PNG">
 
 **추가 사항**: 모든 스테이지가 끝나면 게임 클리어 화면을 5초간 띄운 후, 스테이지1로 돌아가는 기능을 추가하였습니다.
+
+## 게임 실행 방법
+1. BuildFiles 폴더를 다운받습니다.
+2. 폴더 내의 3dBallGame.exe 파일을 실행합니다.
+
 ## 참고
 - https://www.youtube.com/watch?v=pTc1dakebow
